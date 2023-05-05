@@ -1,3 +1,7 @@
-# siuuuuuuuuuuuu
-Ceci est un projet je souris entre Andoni et Cedricfeur hihi
-je suis Andoni et je suis trop mignon :3
+# Utilisation de la technique! ft. Andolebandit01 et XtremeSuceur
+Ceci est 1 projett entre andonigger est cedricfeur
+Le gars à utiliser la technique!!!
+
+
+
+Message contenant de l'information
