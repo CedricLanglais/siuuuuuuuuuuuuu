@@ -1,6 +1,6 @@
-# Utilisation de la technique! ft. Andolebandit01 et XtremeSuceur
-Ceci est 1 projett entre andonigger est cedricfeur
-Le gars à utiliser la technique!!!
+# Utilisation de la technique!
+Ceci est un projet entre Andoni et Cedric
+Le gars à utiliser la technique!
 
 
 
