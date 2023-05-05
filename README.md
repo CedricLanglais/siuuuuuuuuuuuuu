@@ -1,2 +1,3 @@
 # siuuuuuuuuuuuu
-Ceci est un projet entre andonigger et cedricfeur
+Ceci est un projet je souris entre Andoni et Cedricfeur
+je suis Andoni et je suis trop mignon :3
