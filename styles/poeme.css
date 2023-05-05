@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+}
+
+body {
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    color: brown;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4d/Djetcha_Haltura_Raschi_Pack_Buran_t%C3%AAte_b.jpg"
+        );
+    background-repeat: repeat;
+}
+
+#MBappe {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.centeredtitle {
+    text-align: center;
+}
